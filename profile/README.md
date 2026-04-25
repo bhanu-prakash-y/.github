@@ -7,12 +7,24 @@
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ritgithubb&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ritgithubb&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritgithubb&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=bhanu-prakash-y&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Ritgithubb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
