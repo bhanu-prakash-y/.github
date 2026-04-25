@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/bhanu-prakash-y/.github/blob/main/profile/git_banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/bhanu-prakash-y/.github/blob/main/profile/git_banner.png" alt="GitHub Banner" width="1200"/>
 </div>
 
 # 👋 Hi, I'm Bhanu Prakash Yalavarthi
