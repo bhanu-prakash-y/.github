@@ -18,7 +18,7 @@ I’m a DevOps Engineer with hands-on experience supporting high-availability ba
 
 ---
 ### 🔧 What I Do
-- 🛠️ Manage and support critical banking applications with 99.9%+ uptime
+- 🛠️ Manage and support critical banking applications with **99.9%+** uptime
 - 🚀 Handle production incidents within SLA with quick and effective resolution
 - 🔄 Improve deployment efficiency by implementing CI/CD pipelines using Jenkins & Git
 - ⚙️ Automate repetitive operational tasks using Linux & Shell scripting
@@ -39,9 +39,9 @@ Supporting and managing high-availability banking systems, ensuring reliability,
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=bhanuprakash&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?username=bhanuprakash&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanuprakash&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?username=bhanu-prakash-y&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
