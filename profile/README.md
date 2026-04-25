@@ -27,11 +27,11 @@ I’m a DevOps Engineer with hands-on experience supporting high-availability ba
 ---
 
 ### 💼 Career Snapshot
-- 🏢 Tata Consultancy Services (TCS) – DevOps Engineer
+- 🏢 **Tata Consultancy Services (TCS)** – DevOps Engineer
 Supporting and managing high-availability banking systems, ensuring reliability, uptime, and efficient deployments in production environments.
 ---
 ### 📈 Key Achievements
-- ✅ Maintained 99.9%+ uptime for critical banking systems
+- ✅ Maintained **99.9%+** uptime for critical banking systems
 - ⚡ Resolved production incidents within strict SLA timelines
 - 🚀 Enhanced deployment speed through CI/CD automation
 - 🔍 Improved system reliability with proactive monitoring strategies
@@ -39,9 +39,9 @@ Supporting and managing high-availability banking systems, ensuring reliability,
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?username=bhanu-prakash-y&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanu-prakash-y&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Ritgithubb&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?username=Ritgithubb&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritgithubb&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -52,3 +52,4 @@ Supporting and managing high-availability banking systems, ensuring reliability,
 </div>
 
 ---
+Thanks for visiting!
