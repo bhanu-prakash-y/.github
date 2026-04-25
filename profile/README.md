@@ -14,12 +14,6 @@
 ![](https://streak-stats.demolab.com/?username=Ritgithubb&theme=cobalt2&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritgithubb&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Ritgithubb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 ## 🐍 GitHub Contribution Snake
 
