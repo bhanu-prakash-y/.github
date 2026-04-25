@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/bhanu-prakash-y/.github/blob/main/profile/git_banner.png" alt="GitHub Banner" width="800"/>
+</div>
+
 # 👋 Hi, I'm Bhanu Prakash Yalavarthi
 
  
@@ -52,4 +56,5 @@ Supporting and managing high-availability banking systems, ensuring reliability,
 </div>
 
 ---
+
 Thanks for visiting!
